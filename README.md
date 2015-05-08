@@ -3,6 +3,6 @@
 # z
 z.js
 
-## Installation Insturctions
+## Installation Instructions
 
 * `npm install z.js`
