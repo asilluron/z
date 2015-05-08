@@ -1,0 +1,23 @@
+{
+  "name": "z",
+  "version": "0.0.0",
+  "description": "Z Library for JS",
+  "main": "z.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asilluron/z.git"
+  },
+  "keywords": [
+    "Z",
+    "Library"
+  ],
+  "author": "Andrew Silluron, Jeromy Maligie, Josh King, Clay Finley, Che Carsner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asilluron/z/issues"
+  },
+  "homepage": "https://github.com/asilluron/z"
+}
